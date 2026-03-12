@@ -33,3 +33,20 @@ java SistemaGestaoConfiguracao
 **Janaína Cazuza**
 Matrícula: 2025521440
 Curso: Análise e Desenvolvimento de Sistemas
+
+
+
+## Funcionalidades
+
+
+
+O sistema permite registrar itens de configuração com nome, tipo e versão, atualizar a versão de itens existentes, listar todos os artefatos registrados no repositório e exibir o histórico completo de alterações com registro de data e hora.
+
+
+
+## Licença
+
+
+
+Este projeto foi desenvolvido para fins educacionais.
+
